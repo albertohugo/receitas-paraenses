@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.hugo.alberto.receitas_paraenses" >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".SplashScreenActivity"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.NoTitleBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".TacacaActivity"
+            android:theme="@style/Base.Theme.DesignDemo"
+            android:label="Tacacá">
+        </activity>
+        <activity
+            android:name=".ManicobaActivity"
+            android:theme="@style/Base.Theme.DesignDemo"
+            android:label="Maniçoba">
+        </activity>
+        <activity
+            android:name=".PatoNoTucupiActivity"
+            android:theme="@style/Base.Theme.DesignDemo"
+            android:label="Pato no Tucupi">
+        </activity>
+        <activity
+            android:name=".VatapaActivity"
+            android:theme="@style/Base.Theme.DesignDemo"
+            android:label="Vatapa">
+        </activity>
+        <activity
+            android:name=".CaruruActivity"
+            android:theme="@style/Base.Theme.DesignDemo"
+            android:label="Caruru">
+        </activity>
+        <activity
+            android:name=".ArrozParaenseActivity"
+            android:theme="@style/Base.Theme.DesignDemo"
+            android:label="Arroz Paraense">
+        </activity>
+        <activity
+            android:name=".NovaReceita"
+            android:theme="@style/AppTheme"
+            android:label="Nova Receita">
+        </activity>
+    </application>
+
+</manifest>

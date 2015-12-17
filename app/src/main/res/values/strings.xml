@@ -1,0 +1,158 @@
+<resources>
+    <string name="app_name">Receitas Paraenses</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_new">Envie a sua receita</string>
+
+    <string name="informacoes_tacaca">\n Tempo de preparo: 1 h 30 min\n
+        Rendimento: 10 porções\n
+        Dificuldade: moderada</string>
+    <string name="ingredientes_tacaca">\n - 2 litros de tucupí\n
+                                       - 4 dentes de alho\n
+                                       - Chicória\n
+                                       - Alfavaca\n
+                                       - 1 colher de chá de sal\n
+                                       - 4 pimentas de cheiro\n
+                                       - 2 maços de jambu\n
+                                       - 1/2 kg de camarão salgado (seco)\n
+                                       - 1/2 xícara de goma de mandioca\n
+                                       - Pimenta de cheiro</string>
+    <string name="preparo_tacaca">
+        \nColoque em uma panela o tucupí, tempere com alho, chicória,
+        alfavaca e sal, leve ao fogo e deixe levantar fervura.\n
+        \nBaixe o fogo, tampe a panela e deixe cozinhar por 30 minutos.
+        Cozinhe o jambu em água quente, até que os talos ficarem macios,
+        retire, escorra e reserve.\n
+        \nRetire a cabeça do camarão e deixe de molho em uma vasilha com
+        água para retirar o sal.\n
+        \nFerva 4 xícaras de água com sal a gosto, dissolva a goma em uma
+        vasilha com água fria, acrescente ao poucos na água fervendo, até
+        ficar um mingau grosso.\n
+        \nSirva em uma cuia nesta sequência: duas colher de sopa de tucupi,
+        uma concha de goma, uma concha de tucupi, algumas folhas de jambu e
+        5 camarões, sal e pimenta a gosto.\n
+        \nNa falta da goma de mandioca pode ser usado o polvilho azedo.</string>
+
+     <string name="informacoes_manicoba">\n Tempo de preparo: 3 dias\n
+        Rendimento: 25 porções\n
+        Dificuldade: dicífil </string>
+    <string name="ingredientes_manicoba">\n - 3 kg de folha de maniva (mandioca brava)
+                                            - 1/2 kg de toucinho\n
+                                            - 1/2 kg de charque (carne seca)\n
+                                            - 1/2 kg de linguiça portuguesa\n
+                                            - 1/2 kg de paio\n
+                                            - 1/2 kg de lombo de porco\n
+                                            - 1/2 kg de orelha de porco\n
+                                            - 1/2 kg de pé de porco\n
+                                            - 1/2 kg de rabo de porco\n
+                                            - Alho picado a gosto\n
+                                            - Pimenta de cheiro a gosto</string>
+    <string name="preparo_manicoba">
+        \nNo 1º dia coloque a folha de maniva moída em uma panela grande com bastante água.\n
+        \nDeixe ferver durante todo o dia em fogo brando, sem deixar secar.\n
+        \nNo dia seguinte, coloque o toucinho e deixe ferver novamente.\n
+        \nNo 3º dia, escalde todas as carnes e coloque na panela da maniva para ferver.\n
+        \nMexa de vez em quando.\n
+        \nNo dia seguinte, acrescente o alho e a pimenta e deixe ferver por mais 6 horas, mexendo de vez em quando.\n
+        \nSirva com arroz branco e farinha de mandioca crua.</string>
+
+
+     <string name="informacoes_patonotucupi">\n Tempo de preparo: 1 h 30 min\n
+         Rendimento: 10 porções\n
+         Dificuldade: moderada</string>
+    <string name="ingredientes_patonotucupi">\n - 1 pato de 3 kg\n
+                                                - 2 litros de tucupi\n
+                                                - 3 maços de jambu\n
+                                                - 6 folhinhas de chicória\n
+                                                - 2 folhas de alfavaca\n
+                                                - 1 colher (sobremesa) de sal\n
+                                                - 3 dentes de alho fatiados</string>
+    <string name="preparo_patonotucupi">
+        \nEm uma panela pequena, com água até um pouco mais da metade, cozinhe o pato junto com
+        um tomate e uma cebola picados, colorau, um dente de alho, algumas folhas de alfavaca e chicória e uma pitada de sal.\n
+        \nCozinhe até que a carne esteja macia. Retire o pato e leve ao forno para assar em fogo alto.\n
+        \nDepois de assado, corte-o ao meio e nas juntas. Reserve.\n
+        \nEm outra panela ferva o tucupi, as folhinhas de chicória e as de alfavaca, os dentes de alho e o sal.\n
+        \nJunte o pato e os maços de jambu. Deixe ferver por mais 10 minutos.\n
+        \nSirva com arroz branco e farinha dágua.</string>
+
+
+    <string name="informacoes_vatapa">\n Tempo de preparo: 40 min\n
+       Rendimento: 10 porções\n
+        Dificuldade: moderada</string>
+    <string name="ingredientes_vatapa">\n - 3 tomates sem pele\n
+                                        - 1 cebola\n
+                                        - 2 dentes de alho\n
+                                        - 5 ramos de salsa\n
+                                        - 5 talos de cebolinha\n
+                                        - 5 ramos de coentro\n
+                                        - 1 colher (sopa) de sal\n
+                                        - 1 colher (chá) de pimenta do reino\n
+                                        - 1kg de camarões médios\n
+                                        - 2 colheres (sopa) de óleo\n
+                                        - 1 xícara (chá) de leite de coco\n
+                                        - Suco de 1 limão\n
+                                        - 1 pimentão verde picado\n
+                                        - 5 colheres (sopa) de maisena\n
+                                        - 2 xícaras (chá) de água\n
+                                        - 1 xícara (chá) de azeite de dendê\n</string>
+    <string name="preparo_vatapa">
+        \nPasse pelo liquidificador o tomate, a cebola, o alho, a salsa, a cebolinha, o coentro, o sal e a pimenta do reino.\n
+        \nDescasque e limpe bem os camarões.\n
+        \nColoque o óleo em uma panela e frite os camarões rapidamente.\n
+        \nAcrescente os temperos passados pelo liquidificador e deixe cozinhar um pouco.\n
+        \nJunte o leite de coco e o suco de limão.\n
+        \nMexa bem e acrescente o pimentão.\n
+        \nDissolva a maisena na água e adicione à panela.\n
+        \nMexa sem parar até engrossar.\n
+        \nUm pouco antes de retirar do fogo, junte o azeite de dendê.</string>
+
+
+    <string name="informacoes_caruru">\n Rendimento: 6 porções\n
+                                        Tempo de preparo: 40 minutos\n
+                                        Dificuldade: Média</string>
+    <string name="ingredientes_caruru">\n - 1kg de camarões secos\n
+                                        - 3 litros de água\n
+                                        - 1 xícara (chá) de azeite de dendê\n
+                                        - 2 cebolas picadas\n
+                                        - 5 alhos picados\n
+                                        - 2 tomates picados\n
+                                        - 3 pimentas verdes picadas\n
+                                        - 6 folhas de alfavaca picadas\n
+                                        - 6 folhas de chicória picadas\n
+                                        - 1/2 maço de coentro\n
+                                        - 1 pimenta de cheiro\n
+                                        - 1kg de quiabo cortado em rodelas\n
+                                        - 500g de farinha de mandioca fina\n
+                                        - Sal a gosto</string>
+    <string name="preparo_caruru">
+        \nLave os camarões em água corrente 2 vezes.\n
+        \nEscalde-os em 3 litros de água.\n
+        \nReserve o camarão a a água.\n
+        \nEm uma panela, aqueça o azeite de dendê e refogue as cebolas e o alho.\n
+        \nQuando o alho começar a dourar, junte os tomates, as pimentas verdes, a alfavaca, a chicória, o coentro e a pimenta de cheiro, sem tirar o cabinho e sem amassar.\n
+        \nJunte os camarões e mexa.\n
+        \nJunte a água reservada e deixe levantar fervura.\n
+        \nAdicione o quiabo e mexa com cuidado, para não se desfazer.\n
+        \nHidrate a farinha de mandioca em 2 xícaras (chá) de água e coloque-a na panela aos poucos, até dar o ponto.\n
+        \nAcerte o sal e sirva sobre uma camada de arroz.\n</string>
+
+
+     <string name="informacoes_arrozparaense">\n Tempo de preparo: 15 min\n
+                                                 Rendimento: 03 porções\n
+                                                 Dificuldade: fácil\n</string>
+    <string name="ingredientes_arrozparaense">\n - 150g de camarão (descascado)\n
+                                                - 150g de arroz\n
+                                                - 300 ml de tucupi\n
+                                                - 1 dente de alho\n
+                                                - 1/2 cebola\n</string>
+    <string name="preparo_arrozparaense">
+        \nDeixe de molho o camarão para retirar o sal.\n
+        \nRefogue a cebola e o alho e coloque o camarão.\n
+        \nDeixe reforgar um pouco mais.\n
+        \nAdicione o tucupi e logo em seguida coloque o arroz e o jambú.\n
+        \nDeixe ferver por 2 minutos sirva bem quente.\n</string>
+
+
+</resources>
